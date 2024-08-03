@@ -102,7 +102,7 @@ Following these automated steps, an expert review is required to determine the o
 1. Clone this repository:
 
 ```
-git clone https://github.com/ChemBioinformatics/SimplifiedBondfinder.git
+git clone https://github.com/ChemBio-DataLab/SimplifiedBondfinder.git
 ```
 
 2. Install the required packages:
